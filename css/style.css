@@ -1,0 +1,14 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+
+h1{
+    color:rgb(240, 41, 41);
+    font-size: large;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
